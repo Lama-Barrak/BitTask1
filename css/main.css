@@ -1,0 +1,48 @@
+/* Start Navbar */
+.navbar {
+  background-color: #034381;
+  
+}
+
+.navbar .logo {
+  margin: 15px 0 ;
+  font-size: 22px;
+  color: #FFF;
+}
+
+
+.navbar-nav .nav-link {
+  font-size: 16px;
+  text-transform: capitalize;
+  margin-left: 20px;
+  color: #FFF!important 
+}
+/* End Navbar */
+.bit {
+  color:gray;
+}
+.bit .welcome 
+{font-size:35px;
+color:#2fa4e7;
+margin-top:20px;
+}
+.lab
+{display: block;}
+output
+{border:1px solid;
+border-color: #c6cbce!important;
+width: 100%;
+color :gray!important;
+padding: 18px!important;
+font-size: 13px !important ; }
+
+.rate{
+  color :black;
+}
+select
+{color:gray!important;
+  border-color: #c6cbce!important;
+  width: 100%;
+  margin-top: 30px;padding: 10px!important;;
+
+}
