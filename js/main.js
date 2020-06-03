@@ -20,7 +20,6 @@ function getBpi(code)
          console.log(xhr);
          console.log(textStatus);
          console.log(err);
-        
       }
 
 });
